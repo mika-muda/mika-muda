@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mika-muda
+- 👀 I’m interested in game development, Unity tooling, concept art, and 3D modelling
+- 🌱 I’m currently learning Unity and Minecraft modding with Fabric
+- 💞️ I’m looking to collaborate on games, mods, and gamedev tools
+- 📫 Reach me at mikamudaliya@gmail.com 
